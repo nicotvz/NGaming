@@ -1,0 +1,202 @@
+[
+  {
+    "id": "intel-i5",
+    "titulo": "Intel i5 12600K",
+    "imagen": "../img/productos/i5.png",
+    "categoria": {
+      "nombre": "Procesadores",
+      "id": "procesadores"
+    },
+    "precio": 100999
+  },
+  {
+    "id": "intel-i7",
+    "titulo": "Intel i7 12700K",
+    "imagen": "../img/productos/i7.png",
+    "categoria": {
+      "nombre": "Procesadores",
+      "id": "procesadores"
+    },
+    "precio": 155999
+  },
+  {
+    "id": "intel-i9",
+    "titulo": "Intel i9 12900K",
+    "imagen": "../img/productos/i9.png",
+    "categoria": {
+      "nombre": "Procesadores",
+      "id": "procesadores"
+    },
+    "precio": 189999
+  },
+  {
+    "id": "msi-690",
+    "titulo": "MSi Z690 Carbon WiFi",
+    "imagen": "../img/productos/msi.png",
+    "categoria": {
+      "nombre": "Motherboards",
+      "id": "motherboards"
+    },
+    "precio": 128999
+  },
+  {
+    "id": "aorus-690",
+    "titulo": "Aorus Z690 Master",
+    "imagen": "../img/productos/aorus.png",
+    "categoria": {
+      "nombre": "Motherboards",
+      "id": "motherboards"
+    },
+    "precio": 133999
+  },
+  {
+    "id": "asus-690",
+    "titulo": "Asus ROG Strix Z690-F WiFi",
+    "imagen": "../img/productos/asus.png",
+    "categoria": {
+      "nombre": "Motherboards",
+      "id": "motherboards"
+    },
+    "precio": 139999
+  },
+  {
+    "id": "corsair-8",
+    "titulo": "Corsair Vengeance Pro 8gb 3200mhz",
+    "imagen": "../img/productos/vengeance.png",
+    "categoria": {
+      "nombre": "Memorias RAM",
+      "id": "memorias-ram"
+    },
+    "precio": 24999
+  },
+  {
+    "id": "corsair-16",
+    "titulo": "Corsair Vengeance Pro 2x8gb 3200mhz",
+    "imagen": "../img/productos/vengeance2.png",
+    "categoria": {
+      "nombre": "Memorias RAM",
+      "id": "memorias-ram"
+    },
+    "precio": 37999
+  },
+  {
+    "id": "msi-3060",
+    "titulo": "MSi Gaming Z Trio",
+    "imagen": "../img/productos/3060.png",
+    "categoria": {
+      "nombre": "Placas de video",
+      "id": "placas-de-video"
+    },
+    "precio": 166999
+  },
+  {
+    "id": "aorus-3070",
+    "titulo": "Aorus Master GeForce RTX 3070 8gb",
+    "imagen": "../img/productos/3070.png",
+    "categoria": {
+      "nombre": "Placas de video",
+      "id": "placas-de-video"
+    },
+    "precio": 284999
+  },
+  {
+    "id": "asus-3080",
+    "titulo": "Asus ROG Strix GeForce RTX 3080 10gb",
+    "imagen": "../img/productos/3070.png",
+    "categoria": {
+      "nombre": "Placas de video",
+      "id": "placas-de-video"
+    },
+    "precio": 449999
+  },
+  {
+    "id": "seasonic-750",
+    "titulo": "Seasonic Focus GX-750 750w",
+    "imagen": "../img/productos/seasonic1.png",
+    "categoria": {
+      "nombre": "Fuentes",
+      "id": "fuentes"
+    },
+    "precio": 31999
+  },
+  {
+    "id": "seasonic-850",
+    "titulo": "Seasonic Focus GX-850 850w",
+    "imagen": "../img/productos/seasonic2.png",
+    "categoria": {
+      "nombre": "Fuentes",
+      "id": "fuentes"
+    },
+    "precio": 45999
+  },
+  {
+    "id": "seasonic-1000",
+    "titulo": "Seasonic Focus GX-1000 1000w",
+    "imagen": "../img/productos/seasonic3.png",
+    "categoria": {
+      "nombre": "Fuentes",
+      "id": "fuentes"
+    },
+    "precio": 52999
+  },
+  {
+    "id": "wd-blue-1tb",
+    "titulo": "WD Blue 1tb",
+    "imagen": "../img/productos/wd1.png",
+    "categoria": {
+      "nombre": "Almacenamiento",
+      "id": "almacenamiento"
+    },
+    "precio": 12999
+  },
+  {
+    "id": "wd-blue-2tb",
+    "titulo": "WD Blue 2tb",
+    "imagen": "../img/productos/wd2.png",
+    "categoria": {
+      "nombre": "Almacenamiento",
+      "id": "almacenamiento"
+    },
+    "precio": 15999
+  },
+  {
+    "id": "wd-m2-500gb",
+    "titulo": "WD Black m.2 500gb",
+    "imagen": "../img/productos/wd3.png",
+    "categoria": {
+      "nombre": "Almacenamiento",
+      "id": "almacenamiento"
+    },
+    "precio": 25999
+  },
+  {
+    "id": "wd-m2-1tb",
+    "titulo": "WD Black m.2 1tb",
+    "imagen": "../img/productos/wd4.png",
+    "categoria": {
+      "nombre": "Almacenamiento",
+      "id": "almacenamiento"
+    },
+    "precio": 69999
+  },
+  {
+    "id": "corsair-4000d",
+    "titulo": "Corsair Airflow 4000d Tg Black",
+    "imagen": "../img/productos/corsair1.png",
+    "categoria": {
+      "nombre": "Gabinetes",
+      "id": "gabinetes"
+    },
+    "precio": 43999
+  },
+  {
+    "id": "corsair-4000x",
+    "titulo": "Corsair iCue 4000x Tg Black",
+    "imagen": "../img/productos/corsair2.png",
+    "categoria": {
+      "nombre": "Gabinetes",
+      "id": "gabinetes"
+    },
+    "precio": 59999
+  }
+]
